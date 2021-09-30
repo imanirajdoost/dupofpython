@@ -4,6 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 #This is a line
+#This is a line 2
 
 
 def print_hi(name):
@@ -14,6 +15,6 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('Iman2')
-    print_hi('Iman21')
+    print_hi('Iman23')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
